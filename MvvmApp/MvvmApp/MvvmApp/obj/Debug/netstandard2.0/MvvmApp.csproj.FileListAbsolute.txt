@@ -1,0 +1,16 @@
+C:\Users\xasan\source\repos\MvvmApp\MvvmApp\MvvmApp\bin\Debug\netstandard2.0\MvvmApp.deps.json
+C:\Users\xasan\source\repos\MvvmApp\MvvmApp\MvvmApp\bin\Debug\netstandard2.0\MvvmApp.dll
+C:\Users\xasan\source\repos\MvvmApp\MvvmApp\MvvmApp\bin\Debug\netstandard2.0\MvvmApp.pdb
+C:\Users\xasan\source\repos\MvvmApp\MvvmApp\MvvmApp\obj\Debug\netstandard2.0\MvvmApp.csproj.AssemblyReference.cache
+C:\Users\xasan\source\repos\MvvmApp\MvvmApp\MvvmApp\obj\Debug\netstandard2.0\MvvmApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xasan\source\repos\MvvmApp\MvvmApp\MvvmApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\xasan\source\repos\MvvmApp\MvvmApp\MvvmApp\obj\Debug\netstandard2.0\Views\FlowerPage.xaml.g.cs
+C:\Users\xasan\source\repos\MvvmApp\MvvmApp\MvvmApp\obj\Debug\netstandard2.0\Views\FlowersListPage.xaml.g.cs
+C:\Users\xasan\source\repos\MvvmApp\MvvmApp\MvvmApp\obj\Debug\netstandard2.0\MvvmApp.AssemblyInfoInputs.cache
+C:\Users\xasan\source\repos\MvvmApp\MvvmApp\MvvmApp\obj\Debug\netstandard2.0\MvvmApp.AssemblyInfo.cs
+C:\Users\xasan\source\repos\MvvmApp\MvvmApp\MvvmApp\obj\Debug\netstandard2.0\MvvmApp.csproj.CoreCompileInputs.cache
+C:\Users\xasan\source\repos\MvvmApp\MvvmApp\MvvmApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\xasan\source\repos\MvvmApp\MvvmApp\MvvmApp\obj\Debug\netstandard2.0\MvvmApp.dll
+C:\Users\xasan\source\repos\MvvmApp\MvvmApp\MvvmApp\obj\Debug\netstandard2.0\refint\MvvmApp.dll
+C:\Users\xasan\source\repos\MvvmApp\MvvmApp\MvvmApp\obj\Debug\netstandard2.0\MvvmApp.pdb
+C:\Users\xasan\source\repos\MvvmApp\MvvmApp\MvvmApp\obj\Debug\netstandard2.0\ref\MvvmApp.dll

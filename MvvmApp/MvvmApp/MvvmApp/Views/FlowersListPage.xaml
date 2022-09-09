@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+x:Class="MvvmApp.Views.FlowersListPage" Title="Список цветов">
+    <StackLayout>
+        <Button Text="Добавить" Command="{Binding CreateFlowerCommand}" />
+        <ListView x:Name="booksList" ItemsSource="{Binding Flowers}"
+SelectedItem="{Binding SelectedFlower, Mode=TwoWay}" HasUnevenRows="True">
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <ViewCell>
+                        <ViewCell.View>
+                            <StackLayout>
+                                <Label Text="{Binding Name}" FontSize="Medium" />
+                                <Label Text="{Binding Color}" FontSize="Small" />
+                                <Label Text="{Binding Variety}" FontSize="Small" />
+                                <Label Text="{Binding Class}" FontSize="Small" />
+                                <Label Text="{Binding Order}" FontSize="Small" />
+                                <Label Text="{Binding Family}" FontSize="Small" />
+                            </StackLayout>
+                        </ViewCell.View>
+                    </ViewCell>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+        <Label Text="Khasanov Ramazan Khasanovich, IU3-83B, khasanovrkh@mail.ru"
+               HorizontalOptions="Center"
+               BackgroundColor="WhiteSmoke"
+               TextColor="Black"
+               Margin="2" />
+    </StackLayout>
+</ContentPage>

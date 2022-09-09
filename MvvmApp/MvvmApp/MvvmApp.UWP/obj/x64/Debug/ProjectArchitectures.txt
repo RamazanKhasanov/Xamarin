@@ -1,0 +1,1 @@
+C:\Users\xasan\source\repos\MvvmApp\MvvmApp\MvvmApp.UWP\MvvmApp.UWP.csproj;x64
