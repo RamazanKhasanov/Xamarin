@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Notes.NoteEntryPage"
+             Title="Note Entry">
+    <StackLayout Margin="5">
+        <Editor Placeholder="Enter your note"
+                Text="{Binding Text}"
+                HeightRequest="100" />
+        <Grid>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*" />
+                <ColumnDefinition Width="*" />
+                <ColumnDefinition Width="*" />
+            </Grid.ColumnDefinitions>
+            <Button Text="Save"
+                    Clicked="OnSaveButtonClicked" />
+            <Button Grid.Column="1"
+                    Text="Delete"
+                    Clicked="OnDeleteButtonClicked"/>
+            <Button Grid.Column="2"
+                    Text="Combine"
+                    Clicked="OnCombineButtonClicked" />
+        </Grid>
+        <ListView x:Name="listView"
+                  HeightRequest="25"
+                  Margin="0"
+                  ItemSelected="listView_ItemSelected">
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <TextCell Text="{Binding Text}"
+                          Detail="{Binding Date}" />
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+        <Label Text="Khasanov Ramazan Khasanovich, IU3-83B, khasanovrkh@mail.ru"
+               HorizontalOptions="Center"
+               BackgroundColor="WhiteSmoke"
+               TextColor="Black"
+               Margin="2" />
+    </StackLayout>
+</ContentPage>

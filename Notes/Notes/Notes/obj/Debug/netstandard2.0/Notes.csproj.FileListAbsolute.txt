@@ -1,0 +1,16 @@
+C:\Users\xasan\source\repos\Notes\Notes\Notes\bin\Debug\netstandard2.0\Notes.deps.json
+C:\Users\xasan\source\repos\Notes\Notes\Notes\bin\Debug\netstandard2.0\Notes.dll
+C:\Users\xasan\source\repos\Notes\Notes\Notes\bin\Debug\netstandard2.0\Notes.pdb
+C:\Users\xasan\source\repos\Notes\Notes\Notes\obj\Debug\netstandard2.0\Notes.csproj.AssemblyReference.cache
+C:\Users\xasan\source\repos\Notes\Notes\Notes\obj\Debug\netstandard2.0\Notes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xasan\source\repos\Notes\Notes\Notes\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\xasan\source\repos\Notes\Notes\Notes\obj\Debug\netstandard2.0\Notes.AssemblyInfoInputs.cache
+C:\Users\xasan\source\repos\Notes\Notes\Notes\obj\Debug\netstandard2.0\Notes.AssemblyInfo.cs
+C:\Users\xasan\source\repos\Notes\Notes\Notes\obj\Debug\netstandard2.0\Notes.csproj.CoreCompileInputs.cache
+C:\Users\xasan\source\repos\Notes\Notes\Notes\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\xasan\source\repos\Notes\Notes\Notes\obj\Debug\netstandard2.0\Notes.dll
+C:\Users\xasan\source\repos\Notes\Notes\Notes\obj\Debug\netstandard2.0\refint\Notes.dll
+C:\Users\xasan\source\repos\Notes\Notes\Notes\obj\Debug\netstandard2.0\Notes.pdb
+C:\Users\xasan\source\repos\Notes\Notes\Notes\obj\Debug\netstandard2.0\ref\Notes.dll
+C:\Users\xasan\source\repos\Notes\Notes\Notes\obj\Debug\netstandard2.0\NoteEntryPage.xaml.g.cs
+C:\Users\xasan\source\repos\Notes\Notes\Notes\obj\Debug\netstandard2.0\NotesPage.xaml.g.cs
